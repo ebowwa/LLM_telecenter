@@ -4,6 +4,8 @@ A flask wrapper of babca / python-gsmmodem for a waveshare sim7600x.  Not an exa
 
 twitter @innitEBOWWA
 Roadmap
+
+
 | > SMS CAMPAIGN for small business utilizing llm agents
 
 | > PHONE CAMPAIGNS for the SMS campaigns
