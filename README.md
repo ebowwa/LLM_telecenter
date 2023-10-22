@@ -1,21 +1,13 @@
-# A Python Based GSM Server
-A flask wrapper of babca / python-gsmmodem for a waveshare sim7600x.  Not an exact copy of the 'python-gsmmodem' so be sure to uninstall that lib or venv to run
+A Python Based GSM Server
 
+LLM_telecenter offers a robust interface powered by a Flask wrapper, integrating the functionality of babca/python-gsmmodem specifically tailored for the Waveshare sim7600x. If you have python-gsmmodem already installed, it’s crucial to uninstall that library or its associated virtual environment before running this server to ensure compatibility.
 
-twitter @innitEBOWWA
+🐦 Connect with Us: Find us on Twitter: @innitEBOWWA
 
+🚀 Roadmap
 
-Roadmap
-
-| 📞 Phone functionalities -- Ready to Go ✅
-
-| 🚀 SMS CAMPAIGN for small business utilizing llm agents [In-progress]
-
-| 🚀 PHONE CAMPAIGNS for the SMS campaigns [In-progress]
-
-| 🚀 META integrations with Whatsapp and Instagram [In-progress]
-
-| 🚀 LLM based CRM [In-progress]
-
-
-<img width="1206" alt="Screenshot 2023-10-21 at 7 45 01 PM" src="https://github.com/ebowwa/LLM_telecenter/assets/81942069/6a366e5b-e3b8-43aa-9cbc-7a2eefe5559a">
+	•	📞 Phone Functionalities: Ready to Go ✅
+	•	📲 SMS Campaign: Tailored for small businesses and powered by LLM agents. [In-progress]
+	•	📢 Phone Campaigns: An extension of the SMS campaigns to provide more outreach options. [In-progress]
+	•	🔗 META Integrations: Seamless integration with popular platforms such as Whatsapp and Instagram. [In-progress]
+	•	📈 LLM-based CRM: A customer relationship management system powered by LLM. [In-progress]
