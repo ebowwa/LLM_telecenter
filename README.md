@@ -11,3 +11,5 @@ LLM_telecenter offers a robust interface powered by a Flask wrapper, integrating
 	•	📢 Phone Campaigns: An extension of the SMS campaigns to provide more outreach options. [In-progress]
 	•	🔗 META Integrations: Seamless integration with popular platforms such as Whatsapp and Instagram. [In-progress]
 	•	📈 LLM-based CRM: A customer relationship management system powered by LLM. [In-progress]
+
+<img width="1206" alt="Screenshot 2023-10-21 at 7 45 01 PM" src="https://github.com/ebowwa/LLM_telecenter/assets/81942069/6a366e5b-e3b8-43aa-9cbc-7a2eefe5559a">
