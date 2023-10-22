@@ -1,6 +1,6 @@
 # A Python Based GSM Server
 
-LLM_telecenter offers a robust interface powered by a Flask wrapper, integrating the functionality of babca/python-gsmmodem specifically tailored for the Waveshare sim7600x. If you have python-gsmmodem already installed, it’s crucial to uninstall that library or its associated virtual environment before running this server to ensure compatibility.
+LLM_telecenter offers a robust interface powered by a Fastapi wrapper, integrating the functionality of babca/python-gsmmodem specifically tailored for the Waveshare sim7600x. If you have python-gsmmodem already installed, it’s crucial to uninstall that library or its associated virtual environment before running this server to ensure compatibility.
 
 🐦 Connect with me: Find us on Twitter: @innitEBOWWA
 
