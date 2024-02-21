@@ -13,3 +13,6 @@ LLM_telecenter offers a robust interface powered by a Fastapi wrapper, integrati
 	•	📈 LLM-based CRM: A customer relationship management system powered by LLM. [In-progress]
 
 <img width="1206" alt="Screenshot 2023-10-21 at 7 45 01 PM" src="https://github.com/ebowwa/LLM_telecenter/assets/81942069/6a366e5b-e3b8-43aa-9cbc-7a2eefe5559a">
+
+
+needs audio recording, sentiment analysis over audio files, transcription, etc.
